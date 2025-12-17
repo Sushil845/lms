@@ -43,19 +43,19 @@ A full-stack **Library Management System** built using **Angular (standalone)** 
 ![Login Page](ss/login.png)
 
 ### 📝 Register Page
-![Register Page](register.png)
+![Register Page](ss/register.png)
 
 ### 🏠 Student Dashboard
-![Student Dashboard](dashboard.png)
+![Student Dashboard](ss/dashboard.png)
 
 ### 📚 Borrow Books
-![Borrow Books](borrow.png)
+![Borrow Books](ss/borrow.png)
 
 ### 📖 My Borrowed Books
-![My Borrowed Books](my-borrowed.png)
+![My Borrowed Books](ss/my-borrowed.png)
 
 ### 🧑‍💼 Librarian Dashboard
-![Librarian Dashboard](librarian-dashboard.png)
+![Librarian Dashboard](ss/librarian-dashboard.png)
 
 ---
 
