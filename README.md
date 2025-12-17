@@ -40,7 +40,7 @@ A full-stack **Library Management System** built using **Angular (standalone)** 
 ## 📸 Application Screenshots
 
 ### 🔐 Login Page
-![Login Page](login.png)
+![Login Page](ss/login.png)
 
 ### 📝 Register Page
 ![Register Page](register.png)
